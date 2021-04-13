@@ -10,6 +10,6 @@ https://raw.githubusercontent.com/benoitvallon/100-best-books/master/books.json
 https://raw.githubusercontent.com/benoitvallon/100-best-books/master/static/images/absalom-absalom.jpg
 
 
-Below you can find a sample books website.
+Below you can find a screenshot of my website.
 
 ![Book Barn Website](./public/book-barn-image.png)
