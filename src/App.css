@@ -28,6 +28,38 @@
   color: #61dafb;
 }
 
+
+.menu {
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+  background-color: azure;
+}
+
+.footer {
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+  background-color: azure;
+}
+
+.content {
+  display: grid;
+  padding: 60px;
+  font-size: larger;
+  font-family: sans-serif;
+  text-align: -webkit-center;
+}
+
+.container {
+  display: inline-flex;
+  width: 100%;
+  height: auto;
+  flex-flow: wrap;
+  justify-content: space-around;
+  background-color: bisque;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
